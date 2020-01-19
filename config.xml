@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.stratrouletteforr6s.Android"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>r6 strat roulette</name>
+
+  <description>
+      the best rainbow six seige strat roulette app with over 100 different strats
+      
+      Also, some stats mention leaderboards, go with the order BEFORE action phase
+      It is only fun that you use recruit with these strats. It is expected that not following these strats will result in death. 
+      Pick any loadout you wish, if it states what to use, use the listed things. Have fun!.
+      strats from u/luhued
+  </description>
+
+  <author href="https://build.phonegap.com" email="gujimac@gmail.com">
+      cormac miles
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
